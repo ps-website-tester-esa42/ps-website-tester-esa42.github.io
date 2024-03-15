@@ -1,12 +1,13 @@
 ---
 title: Dos and Don'ts von Softwarearchitektur
-layout: single
+layout: splash
 header:
   overlay_image: /images/site-header.png
 
 excerpt: "Kompakte Ratschläge, was SoftwareArchitekt:innen _tun_ (und _lassen_) sollten"
 toc: true
 toc_label: "Inhalt"
+classes: wide
 
 ---
 
